@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+body{
+	font-family: 'Pacifico', cursive;
+}
+.box{
+	background-color: #ddd;
+}
+.gallery{
+	background: #ddd;
+}
